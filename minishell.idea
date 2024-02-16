@@ -1,0 +1,12 @@
+idea::
+	minishell ::
+		ioctl -> tty set-up
+		O_CLOEXEC -> close on exec
+		tcgettgrp -> term info
+		spgrp -> set info => raw mode etc...
+		setpgid ->
+		fcntl -> 
+
+BASH	ast cf. synthax.txt
+	
+	
